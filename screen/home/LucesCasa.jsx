@@ -1,10 +1,10 @@
 import { StyleSheet, Text, View } from 'react-native'
 import React from 'react'
 
-export default function Miperfil() {
+export default function LucesCasa() {
   return (
     <View>
-      <Text>Angel</Text>
+      <Text>LucesCasa</Text>
     </View>
   )
 }
